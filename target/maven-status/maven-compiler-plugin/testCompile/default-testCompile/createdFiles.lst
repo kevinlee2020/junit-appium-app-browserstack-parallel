@@ -1,0 +1,8 @@
+com/browserstack/run_parallel_test/Parallelizedios$ThreadPoolScheduler.class
+com/browserstack/run_parallel_test/BrowserStackJUnitTestAndroid.class
+com/browserstack/run_parallel_test/Parallelizedios.class
+com/browserstack/run_parallel_test/BrowserStackJUnitTestIOS.class
+com/browserstack/run_parallel_test/Parallelizedandroid$ThreadPoolScheduler.class
+com/browserstack/run_parallel_test/ParallelTestIOS.class
+com/browserstack/run_parallel_test/ParallelTestAndroid.class
+com/browserstack/run_parallel_test/Parallelizedandroid.class
